@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//Sinner Calendar by ChatGPT//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jannik Sinner - Upcoming (static snapshot)
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:event1@example.com
+DTSTAMP:20251031T151320Z
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251103
+SUMMARY:Rolex Paris Masters (tournament)
+DESCRIPTION:Rolex Paris Masters (La Défense Arena). Tournament dates. Match times will be added when available. Source: ATP Tour
+END:VEVENT
+BEGIN:VEVENT
+UID:event2@example.com
+DTSTAMP:20251031T151320Z
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251117
+SUMMARY:Nitto ATP Finals - Torino (tournament)
+DESCRIPTION:Nitto ATP Finals, Torino. Tournament dates; Sinner typically participates. Match details will be added when known.
+END:VEVENT
+BEGIN:VEVENT
+UID:event3@example.com
+DTSTAMP:20251031T151320Z
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251124
+SUMMARY:Davis Cup Finals - Malaga (tournament)
+DESCRIPTION:Davis Cup Finals, Malaga. Team competition dates; Italy/Sinner match slots will be added when confirmed.
+END:VEVENT
+END:VCALENDAR
